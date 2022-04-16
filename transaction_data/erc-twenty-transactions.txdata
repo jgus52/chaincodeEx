@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "ercTwentyExists",
+        "transactionLabel": "A test ercTwentyExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createErcTwenty",
+        "transactionLabel": "A test createErcTwenty transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readErcTwenty",
+        "transactionLabel": "A test readErcTwenty transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateErcTwenty",
+        "transactionLabel": "A test updateErcTwenty transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteErcTwenty",
+        "transactionLabel": "A test deleteErcTwenty transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
